@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#000" /> <!-- Set the background color for the header cell -->
+    <corners android:radius="4dp" /> <!-- Set the corner radius for the header cell -->
+</shape>
